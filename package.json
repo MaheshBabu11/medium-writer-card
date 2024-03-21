@@ -10,5 +10,8 @@
     "@vercel/node": "^3.0.24",
     "axios": "^1.6.8",
     "cheerio": "^1.0.0-rc.12"
+  },
+  "engines": {
+    "node": "18.19.0"
   }
 }
