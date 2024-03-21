@@ -2,7 +2,6 @@
   "name": "medium-writer-card",
   "version": "0.0.1",
   "description": "This project is used to create a medium profile card for writers",
-  "type": "module",
   "main": "index.ts",
   "author": "Mahesh Babu",
   "license": "MIT",
@@ -10,8 +9,5 @@
     "@vercel/node": "^3.0.24",
     "axios": "^1.6.8",
     "cheerio": "^1.0.0-rc.12"
-  },
-  "engines": {
-    "node": "18.19.0"
   }
 }
