@@ -2,6 +2,8 @@
 
 This is a simple card that can be embedded in your website/github profile to show your status such as number of followers, following etc. on Medium.
 
+This is a serverless function that loads the medium user profile page and scrapes the required information from the page. The information is then displayed in the card.
+
 ### Usage
 
 ```
